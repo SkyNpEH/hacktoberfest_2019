@@ -5,6 +5,8 @@
 
 
 #### Name: Sujit
+-Place: Nepal, Kathmandu
+-Bio: Cybersecurity Researcher
 -GitHub: https://github.com/SkyNpEH/
 
 
